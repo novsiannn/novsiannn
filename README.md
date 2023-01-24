@@ -1,1 +1,5 @@
-# Bio
+- 👋 Hi, I’m @OvsyannikNikita
+- 👀 I’m interested in programming!
+- ✌🏽 Student at 42 Wolfsburg 
+- 🌱 I’m currently learning C 
+- 📫 How to reach me = nikitaovsyannik77@gmail.com
