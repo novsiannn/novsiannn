@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OvsyannikNikita
+- 👋 Hi, I’m @novsiann
 - 👀 I’m interested in programming!
 - ✌🏽 Student at 42 Wolfsburg 
 - 🌱 I’m currently learning C 
