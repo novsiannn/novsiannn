@@ -3,4 +3,5 @@
 - ✌🏽 Student at 42 Wolfsburg 
 - 🌱 I’m currently learning C 
 - 📫 How to reach me = nikitaovsyannik77@gmail.com
-![image](https://user-images.githubusercontent.com/79808917/214277017-72efe2ee-77ba-494d-87b6-cde46b110a59.png)
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/79808917/214277156-6273ba62-35df-4dfb-90dd-6f4b267be64b.png">
+
