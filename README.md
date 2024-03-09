@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">I'm a programmer from Ukraine</h3>
+<h3 align="center">42 Wolfsburg student from Ukraine</h3>
 
 - 🌱 I’m currently learning **C++**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/ovsyannn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ovsyannn/" height="30" width="40" /></a>
+<a href="https://instagram.com/ovsyannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ovsyannn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
