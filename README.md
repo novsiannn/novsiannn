@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">42 Wolfsburg student from Ukraine</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Typescript and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/novsiannn](https://github.com/novsiannn)
 
